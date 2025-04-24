@@ -1,0 +1,6 @@
+"Username","Domain","Disabled","Lockout","PasswordRequired"
+"Administrator","PFT","True","False","True"
+"bayea","PFT","False","False","True"
+"DefaultAccount","PFT","True","False","False"
+"Guest","PFT","True","False","False"
+"WDAGUtilityAccount","PFT","True","False","True"
